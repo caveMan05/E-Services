@@ -29,6 +29,20 @@ This project is a comprehensive e-services website built using the MERN stack (M
 ![Screenshot from 2024-05-28 08-58-29](https://github.com/caveMan05/E-Services/assets/166364615/50b8c8bb-4e2d-4c02-b2d0-4c10dd20bda1)
 
 
+Key Features:
+
+    User Authentication: Secure authentication and authorization using JWT tokens and the Context API for state management.
+    Booking System: Seamless service booking with real-time updates and notifications.
+    Admin Dashboard: A comprehensive dashboard for administrators to manage users, services, and transactions.
+    Responsive Design: Ensured a responsive and intuitive user interface across all devices using React and styled components.
+
+Technologies Used:
+
+    Frontend: React, styled-components, react-icons
+    Backend: Node.js, Express.js
+    Database: MongoDB
+    Authentication: JSON Web Tokens (JWT), Context API
+
 
 
 
